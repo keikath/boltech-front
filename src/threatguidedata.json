@@ -1,0 +1,39 @@
+{
+   "guideData": [
+{
+"id": 1,
+"title": "SOCIAL ENGINEERING",
+"resourceId": 1,
+"type": "Phishing",
+"description": "Phishing is a scam where attackers attempt to trick users into providing sensitive information."
+},
+{
+"id": 2,
+"resourceId": 1,
+"title": "SOCIAL ENGINEERING",
+"type": "Doxxing",
+"description": "Doxxing is the act of publicly revealing private personal information about an individual."
+},
+{
+"id": 3,
+"resourceId": 1,
+"title": "SOCIAL ENGINEERING",
+"type": "Pretexting",
+"description": "Pretexting involves creating a fabricated scenario to steal personal data."
+},
+{
+"id": 4,
+"resourceId": 2,
+"title": "INSIDER THREATS",
+"type": "Disgruntled employee",
+"description": "This is where attackers attempt to sabotage..."
+},
+{
+"id": 5,
+"resourceId": 3,
+"title": "TECNICAL",
+"type": "Malware",
+"description": "This is where attackers use..."
+}
+]
+}

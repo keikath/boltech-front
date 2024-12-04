@@ -1,0 +1,91 @@
+{
+  "resources": [
+  {
+    "id": 1,
+    
+    "title": "SOCIAL ENGINEERING THREATS",
+    "type": " ",
+    "description": "Phishing, Spear Phishing, Doxxing..."
+    
+    
+  },
+  {
+    "id": 2,
+    
+    "title": "INSIDER THREATS",
+    "type": "Type",
+    "description": "Unknowing employees, Disgruntled staff, Ex-staff,  Infrastructure, Practices"
+  
+  },
+  {
+    "id": 3,
+    "title": "TECHNICAL ATTACKS",
+    "type": "Type",
+    "description": "Malware, Ransomware, DDoS Attack, Rogue Software, Zero-Day Exploits, SQL Injection"
+    
+    
+  },
+  {
+    "id": 4,
+    "title": "NETWORK ATTACKS",
+    "type": " ",
+    "description": "MiTM Attacks, Session Hijacking, Brute-force Attacks, Port Scanning"
+            
+    
+  },
+  {
+    "id": 5,
+    "title": "INFORMATION SECURITY THREATS",
+    "type": "Type",
+    "description": "Disinformation Campaigns, Website Defacement, Internet Censorship, Account Takeover, Shadow Banning"
+
+    
+  },
+  {
+    "id": 6,
+    "title": "TARGETED ATTACKS",
+    "type": "Type",
+    "description": "State-Sponsored Attacks, APTs, Supply-chain Attacks, Watering Hole Attacks"
+    
+    
+  }
+],
+   
+  "guideData": [
+  {
+    "id": 1,
+    "title": "SOCIAL ENGINEERING",
+    "resourceId": 1,
+    "type": "Phishing",
+    "description": "Phishing is a scam where attackers attempt to trick users into providing sensitive information."
+  },
+  {
+    "id": 2,
+    "resourceId": 1,
+    "title": "SOCIAL ENGINEERING",
+    "type": "Doxxing",
+    "description": "Doxxing is the act of publicly revealing private personal information about an individual."
+  },
+  {
+    "id": 3,
+    "resourceId": 1,
+    "title": "SOCIAL ENGINEERING",
+    "type": "Pretexting",
+    "description": "Pretexting involves creating a fabricated scenario to steal personal data."
+  },
+  {
+    "id": 4,
+    "resourceId": 2,
+    "title": "INSIDER THREATS",
+    "type": "Disgruntled employee",
+    "description": "This is where attackers attempt to sabotage..."
+  },
+  {
+    "id": 5,
+    "resourceId": 3,
+    "title": "TECHNICAL",
+    "type": "Malware",
+    "description": "This is where attackers use..."
+  }
+  ]
+}
